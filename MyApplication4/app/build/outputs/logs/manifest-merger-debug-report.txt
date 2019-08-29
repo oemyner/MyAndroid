@@ -1,0 +1,213 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/yangbo/AndroidStudioProjects/MyApplication4/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/yangbo/AndroidStudioProjects/MyApplication4/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/yangbo/AndroidStudioProjects/MyApplication4/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/yangbo/AndroidStudioProjects/MyApplication4/app/src/main/AndroidManifest.xml:2:1-24:12
+MERGED from [androidx.navigation:navigation-ui:2.0.0] /Users/yangbo/.gradle/caches/transforms-2/files-2.1/534469c55b1afb6986f8f5bceeb1f163/jetified-navigation-ui-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.material:material:1.0.0] /Users/yangbo/.gradle/caches/transforms-2/files-2.1/33cc6e79fdd33175156b43da56e8d5aa/material-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/yangbo/.gradle/caches/transforms-2/files-2.1/21ea731e02332a02a47b562dfb23850c/appcompat-1.0.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/yangbo/.gradle/caches/transforms-2/files-2.1/cea9962155474c6a3cead0f7c5a4ad7d/legacy-support-v4-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/yangbo/.gradle/caches/transforms-2/files-2.1/9bba16588158ce496721b4b1ee9a50d6/constraintlayout-1.1.3/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.navigation:navigation-fragment:2.0.0] /Users/yangbo/.gradle/caches/transforms-2/files-2.1/e28958dc01fce2759c76ff2ea6d9b6db/navigation-fragment-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /Users/yangbo/.gradle/caches/transforms-2/files-2.1/c2149cf9b7303cf0cb8cdc74104fdbf8/lifecycle-extensions-2.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/yangbo/.gradle/caches/transforms-2/files-2.1/cd6e9ee3ee971a779ffeb51f12a0831d/fragment-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/yangbo/.gradle/caches/transforms-2/files-2.1/d0a37140e2992985d11c8f8ac0ccb154/vectordrawable-animated-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/yangbo/.gradle/caches/transforms-2/files-2.1/469da880c1ee1720cd91b5faaace2680/recyclerview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/yangbo/.gradle/caches/transforms-2/files-2.1/ad9d02abfdc988d8ed6cb18149b0844f/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-runtime:2.0.0] /Users/yangbo/.gradle/caches/transforms-2/files-2.1/7b3e67070b26760e3d20e6a54de46651/navigation-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/yangbo/.gradle/caches/transforms-2/files-2.1/925186f93d56cf157533c0ed4515c490/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/yangbo/.gradle/caches/transforms-2/files-2.1/bec8bcdc32776a0f7bb7c6fcdb2f3fef/vectordrawable-1.0.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] /Users/yangbo/.gradle/caches/transforms-2/files-2.1/d41f94bcc5941195f21a6243d5068954/media-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] /Users/yangbo/.gradle/caches/transforms-2/files-2.1/6607ba29b32016572df0b6fadac360bb/transition-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/yangbo/.gradle/caches/transforms-2/files-2.1/b95d71daf347728cc18893f497ad4450/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/yangbo/.gradle/caches/transforms-2/files-2.1/64c100111febb3db754cc0d35081d425/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/yangbo/.gradle/caches/transforms-2/files-2.1/b7e0e2abd4601fd3a6777e4873635bcf/coordinatorlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/yangbo/.gradle/caches/transforms-2/files-2.1/328809c75b8bae61df8609a2b8c38c96/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/yangbo/.gradle/caches/transforms-2/files-2.1/8d44500e0ade20c7c35ca8791cdb146e/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/yangbo/.gradle/caches/transforms-2/files-2.1/14053a7c72202fd9ef1d62d80715d091/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/yangbo/.gradle/caches/transforms-2/files-2.1/1714c2290ef2296c41d684441fff842d/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/yangbo/.gradle/caches/transforms-2/files-2.1/bde01a8d299137394f97a5ad255abb13/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-common:2.0.0] /Users/yangbo/.gradle/caches/transforms-2/files-2.1/91071ea3a63639eab3dd6a67ebdeddb7/navigation-common-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] /Users/yangbo/.gradle/caches/transforms-2/files-2.1/7fc1b785690ac443699a141dcbd10f68/core-1.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/yangbo/.gradle/caches/transforms-2/files-2.1/2707ba2dcd0c07b09c5ce726dcd7667f/versionedparcelable-1.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/yangbo/.gradle/caches/transforms-2/files-2.1/a57c3a9b6581ce9d9bf7bdc876de5823/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/yangbo/.gradle/caches/transforms-2/files-2.1/4b6d8ce4120a52f4a19ad1d0f750bdf6/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/yangbo/.gradle/caches/transforms-2/files-2.1/12d05cf0aead4e2ffc0f05fb0d6fbbb4/lifecycle-process-2.0.0/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] /Users/yangbo/.gradle/caches/transforms-2/files-2.1/b381505723172e7d0ff4845319a91b4e/lifecycle-service-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/yangbo/.gradle/caches/transforms-2/files-2.1/bcc28022bc9fc41f4d15b5385041c977/lifecycle-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/yangbo/.gradle/caches/transforms-2/files-2.1/d71dd07f6490ac2bdf2f638bf45d630f/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/yangbo/.gradle/caches/transforms-2/files-2.1/cd36e1f4633b56733a5b5eb0e4abb29d/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/yangbo/.gradle/caches/transforms-2/files-2.1/a6a848aa4891816debd9ba902658db69/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/yangbo/.gradle/caches/transforms-2/files-2.1/47c241d6c209a252eb4de71cebc83d3e/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/yangbo/.gradle/caches/transforms-2/files-2.1/83cfff26a1cfc755d05803e6bc78ad47/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/yangbo/.gradle/caches/transforms-2/files-2.1/516e66bb73e06cce703b8bf3c4a96060/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/yangbo/.gradle/caches/transforms-2/files-2.1/1f3a68a02c9b2bca86bafa343d001d9a/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/yangbo/.gradle/caches/transforms-2/files-2.1/f4a4f259e7a99f0905bff508cd30ba38/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/yangbo/AndroidStudioProjects/MyApplication4/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/yangbo/AndroidStudioProjects/MyApplication4/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/yangbo/AndroidStudioProjects/MyApplication4/app/src/main/AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from /Users/yangbo/AndroidStudioProjects/MyApplication4/app/src/main/AndroidManifest.xml:3:5-40
+		INJECTED from /Users/yangbo/AndroidStudioProjects/MyApplication4/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/yangbo/AndroidStudioProjects/MyApplication4/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/yangbo/AndroidStudioProjects/MyApplication4/app/src/main/AndroidManifest.xml
+		ADDED from /Users/yangbo/AndroidStudioProjects/MyApplication4/app/src/main/AndroidManifest.xml:2:1-24:12
+		INJECTED from /Users/yangbo/AndroidStudioProjects/MyApplication4/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/yangbo/AndroidStudioProjects/MyApplication4/app/src/main/AndroidManifest.xml
+		ADDED from /Users/yangbo/AndroidStudioProjects/MyApplication4/app/src/main/AndroidManifest.xml:2:1-24:12
+		INJECTED from /Users/yangbo/AndroidStudioProjects/MyApplication4/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/yangbo/AndroidStudioProjects/MyApplication4/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/yangbo/AndroidStudioProjects/MyApplication4/app/src/main/AndroidManifest.xml:5:5-22:19
+MERGED from [com.google.android.material:material:1.0.0] /Users/yangbo/.gradle/caches/transforms-2/files-2.1/33cc6e79fdd33175156b43da56e8d5aa/material-1.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] /Users/yangbo/.gradle/caches/transforms-2/files-2.1/33cc6e79fdd33175156b43da56e8d5aa/material-1.0.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/yangbo/.gradle/caches/transforms-2/files-2.1/9bba16588158ce496721b4b1ee9a50d6/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/yangbo/.gradle/caches/transforms-2/files-2.1/9bba16588158ce496721b4b1ee9a50d6/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /Users/yangbo/.gradle/caches/transforms-2/files-2.1/c2149cf9b7303cf0cb8cdc74104fdbf8/lifecycle-extensions-2.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /Users/yangbo/.gradle/caches/transforms-2/files-2.1/c2149cf9b7303cf0cb8cdc74104fdbf8/lifecycle-extensions-2.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.core:core:1.0.1] /Users/yangbo/.gradle/caches/transforms-2/files-2.1/7fc1b785690ac443699a141dcbd10f68/core-1.0.1/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] /Users/yangbo/.gradle/caches/transforms-2/files-2.1/7fc1b785690ac443699a141dcbd10f68/core-1.0.1/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/yangbo/.gradle/caches/transforms-2/files-2.1/2707ba2dcd0c07b09c5ce726dcd7667f/versionedparcelable-1.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/yangbo/.gradle/caches/transforms-2/files-2.1/2707ba2dcd0c07b09c5ce726dcd7667f/versionedparcelable-1.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/yangbo/.gradle/caches/transforms-2/files-2.1/12d05cf0aead4e2ffc0f05fb0d6fbbb4/lifecycle-process-2.0.0/AndroidManifest.xml:22:5-28:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/yangbo/.gradle/caches/transforms-2/files-2.1/12d05cf0aead4e2ffc0f05fb0d6fbbb4/lifecycle-process-2.0.0/AndroidManifest.xml:22:5-28:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] /Users/yangbo/.gradle/caches/transforms-2/files-2.1/7fc1b785690ac443699a141dcbd10f68/core-1.0.1/AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from /Users/yangbo/AndroidStudioProjects/MyApplication4/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /Users/yangbo/AndroidStudioProjects/MyApplication4/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /Users/yangbo/AndroidStudioProjects/MyApplication4/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /Users/yangbo/AndroidStudioProjects/MyApplication4/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /Users/yangbo/AndroidStudioProjects/MyApplication4/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /Users/yangbo/AndroidStudioProjects/MyApplication4/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.example.myapplication.MainActivity
+ADDED from /Users/yangbo/AndroidStudioProjects/MyApplication4/app/src/main/AndroidManifest.xml:12:9-21:20
+	android:label
+		ADDED from /Users/yangbo/AndroidStudioProjects/MyApplication4/app/src/main/AndroidManifest.xml:14:13-45
+	android:theme
+		ADDED from /Users/yangbo/AndroidStudioProjects/MyApplication4/app/src/main/AndroidManifest.xml:15:13-56
+	android:name
+		ADDED from /Users/yangbo/AndroidStudioProjects/MyApplication4/app/src/main/AndroidManifest.xml:13:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/yangbo/AndroidStudioProjects/MyApplication4/app/src/main/AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from /Users/yangbo/AndroidStudioProjects/MyApplication4/app/src/main/AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from /Users/yangbo/AndroidStudioProjects/MyApplication4/app/src/main/AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/yangbo/AndroidStudioProjects/MyApplication4/app/src/main/AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from /Users/yangbo/AndroidStudioProjects/MyApplication4/app/src/main/AndroidManifest.xml:19:27-74
+uses-sdk
+INJECTED from /Users/yangbo/AndroidStudioProjects/MyApplication4/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/yangbo/AndroidStudioProjects/MyApplication4/app/src/main/AndroidManifest.xml
+INJECTED from /Users/yangbo/AndroidStudioProjects/MyApplication4/app/src/main/AndroidManifest.xml
+MERGED from [androidx.navigation:navigation-ui:2.0.0] /Users/yangbo/.gradle/caches/transforms-2/files-2.1/534469c55b1afb6986f8f5bceeb1f163/jetified-navigation-ui-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-ui:2.0.0] /Users/yangbo/.gradle/caches/transforms-2/files-2.1/534469c55b1afb6986f8f5bceeb1f163/jetified-navigation-ui-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] /Users/yangbo/.gradle/caches/transforms-2/files-2.1/33cc6e79fdd33175156b43da56e8d5aa/material-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] /Users/yangbo/.gradle/caches/transforms-2/files-2.1/33cc6e79fdd33175156b43da56e8d5aa/material-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/yangbo/.gradle/caches/transforms-2/files-2.1/21ea731e02332a02a47b562dfb23850c/appcompat-1.0.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/yangbo/.gradle/caches/transforms-2/files-2.1/21ea731e02332a02a47b562dfb23850c/appcompat-1.0.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/yangbo/.gradle/caches/transforms-2/files-2.1/cea9962155474c6a3cead0f7c5a4ad7d/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/yangbo/.gradle/caches/transforms-2/files-2.1/cea9962155474c6a3cead0f7c5a4ad7d/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/yangbo/.gradle/caches/transforms-2/files-2.1/9bba16588158ce496721b4b1ee9a50d6/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/yangbo/.gradle/caches/transforms-2/files-2.1/9bba16588158ce496721b4b1ee9a50d6/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.navigation:navigation-fragment:2.0.0] /Users/yangbo/.gradle/caches/transforms-2/files-2.1/e28958dc01fce2759c76ff2ea6d9b6db/navigation-fragment-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-fragment:2.0.0] /Users/yangbo/.gradle/caches/transforms-2/files-2.1/e28958dc01fce2759c76ff2ea6d9b6db/navigation-fragment-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /Users/yangbo/.gradle/caches/transforms-2/files-2.1/c2149cf9b7303cf0cb8cdc74104fdbf8/lifecycle-extensions-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /Users/yangbo/.gradle/caches/transforms-2/files-2.1/c2149cf9b7303cf0cb8cdc74104fdbf8/lifecycle-extensions-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/yangbo/.gradle/caches/transforms-2/files-2.1/cd6e9ee3ee971a779ffeb51f12a0831d/fragment-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/yangbo/.gradle/caches/transforms-2/files-2.1/cd6e9ee3ee971a779ffeb51f12a0831d/fragment-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/yangbo/.gradle/caches/transforms-2/files-2.1/d0a37140e2992985d11c8f8ac0ccb154/vectordrawable-animated-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/yangbo/.gradle/caches/transforms-2/files-2.1/d0a37140e2992985d11c8f8ac0ccb154/vectordrawable-animated-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/yangbo/.gradle/caches/transforms-2/files-2.1/469da880c1ee1720cd91b5faaace2680/recyclerview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/yangbo/.gradle/caches/transforms-2/files-2.1/469da880c1ee1720cd91b5faaace2680/recyclerview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/yangbo/.gradle/caches/transforms-2/files-2.1/ad9d02abfdc988d8ed6cb18149b0844f/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/yangbo/.gradle/caches/transforms-2/files-2.1/ad9d02abfdc988d8ed6cb18149b0844f/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.0.0] /Users/yangbo/.gradle/caches/transforms-2/files-2.1/7b3e67070b26760e3d20e6a54de46651/navigation-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.0.0] /Users/yangbo/.gradle/caches/transforms-2/files-2.1/7b3e67070b26760e3d20e6a54de46651/navigation-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/yangbo/.gradle/caches/transforms-2/files-2.1/925186f93d56cf157533c0ed4515c490/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/yangbo/.gradle/caches/transforms-2/files-2.1/925186f93d56cf157533c0ed4515c490/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/yangbo/.gradle/caches/transforms-2/files-2.1/bec8bcdc32776a0f7bb7c6fcdb2f3fef/vectordrawable-1.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/yangbo/.gradle/caches/transforms-2/files-2.1/bec8bcdc32776a0f7bb7c6fcdb2f3fef/vectordrawable-1.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/yangbo/.gradle/caches/transforms-2/files-2.1/d41f94bcc5941195f21a6243d5068954/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/yangbo/.gradle/caches/transforms-2/files-2.1/d41f94bcc5941195f21a6243d5068954/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /Users/yangbo/.gradle/caches/transforms-2/files-2.1/6607ba29b32016572df0b6fadac360bb/transition-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /Users/yangbo/.gradle/caches/transforms-2/files-2.1/6607ba29b32016572df0b6fadac360bb/transition-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/yangbo/.gradle/caches/transforms-2/files-2.1/b95d71daf347728cc18893f497ad4450/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/yangbo/.gradle/caches/transforms-2/files-2.1/b95d71daf347728cc18893f497ad4450/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/yangbo/.gradle/caches/transforms-2/files-2.1/64c100111febb3db754cc0d35081d425/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/yangbo/.gradle/caches/transforms-2/files-2.1/64c100111febb3db754cc0d35081d425/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/yangbo/.gradle/caches/transforms-2/files-2.1/b7e0e2abd4601fd3a6777e4873635bcf/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/yangbo/.gradle/caches/transforms-2/files-2.1/b7e0e2abd4601fd3a6777e4873635bcf/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/yangbo/.gradle/caches/transforms-2/files-2.1/328809c75b8bae61df8609a2b8c38c96/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/yangbo/.gradle/caches/transforms-2/files-2.1/328809c75b8bae61df8609a2b8c38c96/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/yangbo/.gradle/caches/transforms-2/files-2.1/8d44500e0ade20c7c35ca8791cdb146e/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/yangbo/.gradle/caches/transforms-2/files-2.1/8d44500e0ade20c7c35ca8791cdb146e/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/yangbo/.gradle/caches/transforms-2/files-2.1/14053a7c72202fd9ef1d62d80715d091/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/yangbo/.gradle/caches/transforms-2/files-2.1/14053a7c72202fd9ef1d62d80715d091/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/yangbo/.gradle/caches/transforms-2/files-2.1/1714c2290ef2296c41d684441fff842d/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/yangbo/.gradle/caches/transforms-2/files-2.1/1714c2290ef2296c41d684441fff842d/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/yangbo/.gradle/caches/transforms-2/files-2.1/bde01a8d299137394f97a5ad255abb13/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/yangbo/.gradle/caches/transforms-2/files-2.1/bde01a8d299137394f97a5ad255abb13/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common:2.0.0] /Users/yangbo/.gradle/caches/transforms-2/files-2.1/91071ea3a63639eab3dd6a67ebdeddb7/navigation-common-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common:2.0.0] /Users/yangbo/.gradle/caches/transforms-2/files-2.1/91071ea3a63639eab3dd6a67ebdeddb7/navigation-common-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/yangbo/.gradle/caches/transforms-2/files-2.1/7fc1b785690ac443699a141dcbd10f68/core-1.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/yangbo/.gradle/caches/transforms-2/files-2.1/7fc1b785690ac443699a141dcbd10f68/core-1.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/yangbo/.gradle/caches/transforms-2/files-2.1/2707ba2dcd0c07b09c5ce726dcd7667f/versionedparcelable-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/yangbo/.gradle/caches/transforms-2/files-2.1/2707ba2dcd0c07b09c5ce726dcd7667f/versionedparcelable-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/yangbo/.gradle/caches/transforms-2/files-2.1/a57c3a9b6581ce9d9bf7bdc876de5823/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/yangbo/.gradle/caches/transforms-2/files-2.1/a57c3a9b6581ce9d9bf7bdc876de5823/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/yangbo/.gradle/caches/transforms-2/files-2.1/4b6d8ce4120a52f4a19ad1d0f750bdf6/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/yangbo/.gradle/caches/transforms-2/files-2.1/4b6d8ce4120a52f4a19ad1d0f750bdf6/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/yangbo/.gradle/caches/transforms-2/files-2.1/12d05cf0aead4e2ffc0f05fb0d6fbbb4/lifecycle-process-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/yangbo/.gradle/caches/transforms-2/files-2.1/12d05cf0aead4e2ffc0f05fb0d6fbbb4/lifecycle-process-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] /Users/yangbo/.gradle/caches/transforms-2/files-2.1/b381505723172e7d0ff4845319a91b4e/lifecycle-service-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] /Users/yangbo/.gradle/caches/transforms-2/files-2.1/b381505723172e7d0ff4845319a91b4e/lifecycle-service-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/yangbo/.gradle/caches/transforms-2/files-2.1/bcc28022bc9fc41f4d15b5385041c977/lifecycle-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/yangbo/.gradle/caches/transforms-2/files-2.1/bcc28022bc9fc41f4d15b5385041c977/lifecycle-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/yangbo/.gradle/caches/transforms-2/files-2.1/d71dd07f6490ac2bdf2f638bf45d630f/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/yangbo/.gradle/caches/transforms-2/files-2.1/d71dd07f6490ac2bdf2f638bf45d630f/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/yangbo/.gradle/caches/transforms-2/files-2.1/cd36e1f4633b56733a5b5eb0e4abb29d/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/yangbo/.gradle/caches/transforms-2/files-2.1/cd36e1f4633b56733a5b5eb0e4abb29d/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/yangbo/.gradle/caches/transforms-2/files-2.1/a6a848aa4891816debd9ba902658db69/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/yangbo/.gradle/caches/transforms-2/files-2.1/a6a848aa4891816debd9ba902658db69/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/yangbo/.gradle/caches/transforms-2/files-2.1/47c241d6c209a252eb4de71cebc83d3e/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/yangbo/.gradle/caches/transforms-2/files-2.1/47c241d6c209a252eb4de71cebc83d3e/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/yangbo/.gradle/caches/transforms-2/files-2.1/83cfff26a1cfc755d05803e6bc78ad47/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/yangbo/.gradle/caches/transforms-2/files-2.1/83cfff26a1cfc755d05803e6bc78ad47/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/yangbo/.gradle/caches/transforms-2/files-2.1/516e66bb73e06cce703b8bf3c4a96060/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/yangbo/.gradle/caches/transforms-2/files-2.1/516e66bb73e06cce703b8bf3c4a96060/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/yangbo/.gradle/caches/transforms-2/files-2.1/1f3a68a02c9b2bca86bafa343d001d9a/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/yangbo/.gradle/caches/transforms-2/files-2.1/1f3a68a02c9b2bca86bafa343d001d9a/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/yangbo/.gradle/caches/transforms-2/files-2.1/f4a4f259e7a99f0905bff508cd30ba38/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/yangbo/.gradle/caches/transforms-2/files-2.1/f4a4f259e7a99f0905bff508cd30ba38/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+INJECTED from /Users/yangbo/AndroidStudioProjects/MyApplication4/app/src/main/AndroidManifest.xml
+INJECTED from /Users/yangbo/AndroidStudioProjects/MyApplication4/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/yangbo/AndroidStudioProjects/MyApplication4/app/src/main/AndroidManifest.xml
+		ADDED from /Users/yangbo/AndroidStudioProjects/MyApplication4/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/yangbo/AndroidStudioProjects/MyApplication4/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/yangbo/AndroidStudioProjects/MyApplication4/app/src/main/AndroidManifest.xml
+		ADDED from /Users/yangbo/AndroidStudioProjects/MyApplication4/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/yangbo/AndroidStudioProjects/MyApplication4/app/src/main/AndroidManifest.xml
+provider#androidx.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/yangbo/.gradle/caches/transforms-2/files-2.1/12d05cf0aead4e2ffc0f05fb0d6fbbb4/lifecycle-process-2.0.0/AndroidManifest.xml:23:9-27:43
+	android:authorities
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/yangbo/.gradle/caches/transforms-2/files-2.1/12d05cf0aead4e2ffc0f05fb0d6fbbb4/lifecycle-process-2.0.0/AndroidManifest.xml:25:13-69
+	android:multiprocess
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/yangbo/.gradle/caches/transforms-2/files-2.1/12d05cf0aead4e2ffc0f05fb0d6fbbb4/lifecycle-process-2.0.0/AndroidManifest.xml:27:13-40
+	android:exported
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/yangbo/.gradle/caches/transforms-2/files-2.1/12d05cf0aead4e2ffc0f05fb0d6fbbb4/lifecycle-process-2.0.0/AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/yangbo/.gradle/caches/transforms-2/files-2.1/12d05cf0aead4e2ffc0f05fb0d6fbbb4/lifecycle-process-2.0.0/AndroidManifest.xml:24:13-79

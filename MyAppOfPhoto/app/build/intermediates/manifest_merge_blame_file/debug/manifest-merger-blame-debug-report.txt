@@ -1,0 +1,74 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.myappofphoto"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="22"
+8-->/Users/yangbo/AndroidStudioProjects/MyAppOfPhoto/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->/Users/yangbo/AndroidStudioProjects/MyAppOfPhoto/app/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+11-->/Users/yangbo/AndroidStudioProjects/MyAppOfPhoto/app/src/main/AndroidManifest.xml:5:5-81
+11-->/Users/yangbo/AndroidStudioProjects/MyAppOfPhoto/app/src/main/AndroidManifest.xml:5:22-78
+12    <uses-permission android:name="android.permission.INTERNET" />
+12-->/Users/yangbo/AndroidStudioProjects/MyAppOfPhoto/app/src/main/AndroidManifest.xml:6:5-67
+12-->/Users/yangbo/AndroidStudioProjects/MyAppOfPhoto/app/src/main/AndroidManifest.xml:6:22-64
+13    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+13-->/Users/yangbo/AndroidStudioProjects/MyAppOfPhoto/app/src/main/AndroidManifest.xml:7:5-79
+13-->/Users/yangbo/AndroidStudioProjects/MyAppOfPhoto/app/src/main/AndroidManifest.xml:7:22-76
+14
+15    <application
+15-->/Users/yangbo/AndroidStudioProjects/MyAppOfPhoto/app/src/main/AndroidManifest.xml:9:5-32:19
+16        android:allowBackup="true"
+16-->/Users/yangbo/AndroidStudioProjects/MyAppOfPhoto/app/src/main/AndroidManifest.xml:10:9-35
+17        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+17-->[androidx.core:core:1.0.1] /Users/yangbo/.gradle/caches/transforms-2/files-2.1/7fc1b785690ac443699a141dcbd10f68/core-1.0.1/AndroidManifest.xml:22:18-86
+18        android:debuggable="true"
+19        android:icon="@mipmap/ic_launcher"
+19-->/Users/yangbo/AndroidStudioProjects/MyAppOfPhoto/app/src/main/AndroidManifest.xml:11:9-43
+20        android:label="@string/app_name"
+20-->/Users/yangbo/AndroidStudioProjects/MyAppOfPhoto/app/src/main/AndroidManifest.xml:12:9-41
+21        android:roundIcon="@mipmap/ic_launcher_round"
+21-->/Users/yangbo/AndroidStudioProjects/MyAppOfPhoto/app/src/main/AndroidManifest.xml:13:9-54
+22        android:supportsRtl="true"
+22-->/Users/yangbo/AndroidStudioProjects/MyAppOfPhoto/app/src/main/AndroidManifest.xml:14:9-35
+23        android:theme="@style/AppTheme" >
+23-->/Users/yangbo/AndroidStudioProjects/MyAppOfPhoto/app/src/main/AndroidManifest.xml:15:9-40
+24        <activity android:name="com.example.myappofphoto.MainActivity" >
+24-->/Users/yangbo/AndroidStudioProjects/MyAppOfPhoto/app/src/main/AndroidManifest.xml:16:9-22:20
+24-->/Users/yangbo/AndroidStudioProjects/MyAppOfPhoto/app/src/main/AndroidManifest.xml:16:19-47
+25            <intent-filter>
+25-->/Users/yangbo/AndroidStudioProjects/MyAppOfPhoto/app/src/main/AndroidManifest.xml:17:13-21:29
+26                <action android:name="android.intent.action.MAIN" />
+26-->/Users/yangbo/AndroidStudioProjects/MyAppOfPhoto/app/src/main/AndroidManifest.xml:18:17-69
+26-->/Users/yangbo/AndroidStudioProjects/MyAppOfPhoto/app/src/main/AndroidManifest.xml:18:25-66
+27
+28                <category android:name="android.intent.category.LAUNCHER" />
+28-->/Users/yangbo/AndroidStudioProjects/MyAppOfPhoto/app/src/main/AndroidManifest.xml:20:17-77
+28-->/Users/yangbo/AndroidStudioProjects/MyAppOfPhoto/app/src/main/AndroidManifest.xml:20:27-74
+29            </intent-filter>
+30        </activity>
+31
+32        <provider
+32-->/Users/yangbo/AndroidStudioProjects/MyAppOfPhoto/app/src/main/AndroidManifest.xml:23:9-31:20
+33            android:name="androidx.core.content.FileProvider"
+33-->/Users/yangbo/AndroidStudioProjects/MyAppOfPhoto/app/src/main/AndroidManifest.xml:24:13-62
+34            android:authorities="com.example.cameraalbumtest.fileprovider"
+34-->/Users/yangbo/AndroidStudioProjects/MyAppOfPhoto/app/src/main/AndroidManifest.xml:25:13-75
+35            android:exported="false"
+35-->/Users/yangbo/AndroidStudioProjects/MyAppOfPhoto/app/src/main/AndroidManifest.xml:26:13-37
+36            android:grantUriPermissions="true" >
+36-->/Users/yangbo/AndroidStudioProjects/MyAppOfPhoto/app/src/main/AndroidManifest.xml:27:13-47
+37            <meta-data
+37-->/Users/yangbo/AndroidStudioProjects/MyAppOfPhoto/app/src/main/AndroidManifest.xml:28:13-30:54
+38                android:name="android.support.FILE_PROVIDER_PATHS"
+38-->/Users/yangbo/AndroidStudioProjects/MyAppOfPhoto/app/src/main/AndroidManifest.xml:29:17-67
+39                android:resource="@xml/file_paths" />
+39-->/Users/yangbo/AndroidStudioProjects/MyAppOfPhoto/app/src/main/AndroidManifest.xml:30:17-51
+40        </provider>
+41    </application>
+42
+43</manifest>
